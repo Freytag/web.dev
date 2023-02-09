@@ -505,5 +505,5 @@ it's useful for understanding the concepts of web workers. Here are a few more i
 
 ## References
 - [Web Workers](http://www.whatwg.org/specs/web-workers/current-work/) specification
-- ["Using web workers"](http://developer.mozilla.org/Using_web_workers) from Mozilla Developer Network
+- ["Using web workers"](https://developer.mozilla.org/en-US/docs/Web/API/Web_Workers_API/Using_web_workers) from Mozilla Developer Network
 - ["Web Workers rise up!"](http://dev.opera.com/articles/view/web-workers-rise-up/) from Dev.Opera
